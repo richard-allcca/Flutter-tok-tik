@@ -19,3 +19,7 @@ A new Flutter project.
 `Permission` video player into android/app/src/main/AndroidManifest
 
 - With permission issues associate it with the main manifest
+
+## Sources
+
+For local videos you must use the assets folder
